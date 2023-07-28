@@ -1,3 +1,4 @@
+.local-tor
 # Logs
 logs
 *.log
